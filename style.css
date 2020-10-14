@@ -1,0 +1,26 @@
+#uparrow, #downarrow {
+  cursor: pointer;
+}
+
+#note-list {
+  list-style: none;
+}
+
+#notes {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  width: 30%;
+  border-radius: 5px;
+}
+
+#notes {
+  background: #343A40;
+  line-height: 2;
+  color: white;
+  font-size: 14px;
+  font-family: sans-serif;
+  font-weight: bold;
+  text-shadow: 0 1px 0 #343A40;
+  box-shadow: 0 0 15px #343A40
+}
